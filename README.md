@@ -1,7 +1,7 @@
 #  Student Performance Dashboard (Excel)
 
 ## 📷 Dashboard Preview
-![Dashboard]<img width="1661" height="813" alt="Screenshot 2026-03-04 002139" src="https://github.com/user-attachments/assets/61070884-0ba9-4fb7-9848-860f3b7df175" />
+<img width="1661" height="813" alt="Screenshot 2026-03-04 002139" src="https://github.com/user-attachments/assets/61070884-0ba9-4fb7-9848-860f3b7df175" />
 )
 
 ##  Project Overview
